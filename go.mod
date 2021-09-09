@@ -33,6 +33,7 @@ require (
 	cloud.google.com/go/kms v0.1.0 // indirect
 	github.com/OneOfOne/xxhash v1.2.8 // indirect
 	github.com/cespare/xxhash/v2 v2.1.2 // indirect
+	cuelang.org/go v0.4.0
 	github.com/cncf/udpa/go v0.0.0-20210322005330-6414d713912e // indirect
 	github.com/cncf/xds/go v0.0.0-20210805033703-aa0b78936158 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.1 // indirect
